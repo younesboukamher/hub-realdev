@@ -2,3 +2,8 @@
 	path = younesboukamher/RealDev
 	url = git@github.com:younesboukamher/RealDev.git
 	branch = master
+
+[submodule "supportrealdev/offer_template"]
+	path = supportrealdev/offer_template
+	url = git@github.com:supportrealdev/offer_template.git
+	branch = 14.0
