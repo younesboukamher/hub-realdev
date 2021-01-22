@@ -7,3 +7,8 @@
 	path = supportrealdev/offer_template
 	url = git@github.com:supportrealdev/offer_template.git
 	branch = 14.0
+
+[submodule "supportrealdev/offer_template"]
+	path = supportrealdev/offer_template
+	url = git@github.com:supportrealdev/offer_template.git
+	branch = 14.0
